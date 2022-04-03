@@ -19,7 +19,7 @@ MAUA_CLTD is a cooling load calculator designed and submitted for the completion
 
 ## Technical details
 ### City data
-![City data](https://user-images.githubusercontent.com/64977439/161422538-f9e29982-8445-480f-8141-a13d6cddf242.png)
+![City Data](https://user-images.githubusercontent.com/64977439/161422839-f4f57cea-6dab-4161-b14a-d8889adc660c.png)
 ### Methodology used for particular cooling loads
 -	Equipment load (McQuiston 1992 CLF method)
 -	Human load (McQuiston 1992 CLF method)
